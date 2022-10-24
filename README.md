@@ -9,7 +9,7 @@ In this ptojects, I carried out an Exploratory Data Analysis on Monkey Pox datas
 6. Correlation between Travel History and Confirmed Cases 
 7. Correlation between Travel History and Suspected Cases 
 8. The Symptoms that Monkey Pox infected people face.
-## File Used
+## Files Used
 The dataset contains three files:
 1. Monkey_Pox_Cases_Worldwide : This dataset contains a tally of confirmed and suspected cases in all countries
 2. Worldwide_Case_Detection_Timeline : This dataset contains the timeline for confirmed cases.It also contains some other details on every case that is being reported.
